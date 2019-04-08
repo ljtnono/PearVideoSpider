@@ -5,8 +5,8 @@ import re
 
 import requests
 
-from myspider.BaseParser import BaseParser
-from myspider.ParserResponse import ParserResponse
+from pearvideo import BaseParser
+from pearvideo.ParserResponse import ParserResponse
 
 
 class PearVideoUrlParser(BaseParser):

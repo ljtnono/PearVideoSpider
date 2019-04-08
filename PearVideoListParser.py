@@ -1,6 +1,6 @@
 import requests
 
-from myspider.BaseParser import BaseParser
+from pearvideo import BaseParser
 
 
 class PearVideoListParser(BaseParser):

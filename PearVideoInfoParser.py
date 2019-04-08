@@ -3,7 +3,7 @@
 """
 import re
 
-from myspider.BaseParser import BaseParser
+from pearvideo import BaseParser
 from pearvideo.PearVideo import PearVideo
 
 

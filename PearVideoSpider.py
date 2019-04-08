@@ -1,5 +1,5 @@
-from myspider import BaseRequestHeaderFactory
-from myspider.ParserRequest import ParserRequest
+from pearvideo import BaseRequestHeaderFactory
+from pearvideo.ParserRequest import ParserRequest
 from pearvideo.PearVideoInfoParser import PearVideoInfoParser
 from pearvideo.PearVideoListParser import PearVideoListParser
 from pearvideo.PearVideoUrlParser import PearVideoUrlParser
